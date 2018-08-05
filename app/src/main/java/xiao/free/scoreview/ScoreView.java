@@ -23,7 +23,7 @@ public class ScoreView extends View {
     //数字滚动一次的距离
     private int SCROLL_DISTANCE;
     //滚动方向
-    private int scrollDirection = SCROLL_UP;
+    private int scrollDirection = SCROLL_DOWN;
 
     private int mTextWidth;//两个字符的宽度
     private int mTextHeight;
